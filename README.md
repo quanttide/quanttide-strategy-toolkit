@@ -1,6 +1,6 @@
 # quanttide-strategy-toolkit
 
-量潮战略管理工具箱 — 战略管理领域的共享库与工具集（独立仓库，挂载于 quanttide-strategy/packages）。
+量潮战略管理标准库 — 战略管理领域的共享库与标准库（独立仓库，挂载于 quanttide-strategy/packages）。
 
 ## 概述
 
